@@ -23,7 +23,7 @@ public class PortalController {
     private final OtpService otpService;
 
     // Replace this with the MLA's actual WhatsApp phone number (with country code, no "+" or spaces)
-    private final String MLA_WHATSAPP_NUMBER = "919876543210";
+    private final String MLA_WHATSAPP_NUMBER = "917012701600";
 
     public PortalController(UserRepository userRepository, ComplaintRepository complaintRepository, OtpService otpService) {
         this.userRepository = userRepository;
